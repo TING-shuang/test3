@@ -1,0 +1,25 @@
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+
+# Workspace instructions
+AGENTS.md
+
+# OS files
+.DS_Store
+Thumbs.db
